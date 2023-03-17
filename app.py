@@ -4,8 +4,6 @@
 # In[3]:
 
 
-pip install replicate
-
 
 # In[6]:
 
