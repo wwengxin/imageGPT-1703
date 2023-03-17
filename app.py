@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
-
-# In[6]:
-
-
 from flask import Flask,request,render_template
 import replicate
 import os
@@ -30,10 +20,4 @@ def index():
 
 if __name__ == "__main__":
     app.run()
-
-
-# In[ ]:
-
-
-
-
+    
